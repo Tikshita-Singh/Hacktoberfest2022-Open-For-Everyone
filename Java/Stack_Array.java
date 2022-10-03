@@ -32,6 +32,7 @@ public class Stack_Array {
 			        break;
 			case 5: st.status();
 			        break;
+			case 6 : System.exit(0);
 			default:
 				System.out.println("Invalid Choice");
 			}
